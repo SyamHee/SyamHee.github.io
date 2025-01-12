@@ -86,21 +86,21 @@ left: 40%;
 	animation-duration: 4s;
 }
 h2{
-	font-size: 30px;
+	font-size: 70px;
 	color: white;
 	position: absolute;
 	top: 30%;
-	left: 40%;
+	left: 45%;
 	font-family: cursive;
 	transform: translate(-30%,-50%);}
 
 h3{
 
-	font-size: 30px;
+	font-size: 50px;
 	color: white;
 	position: absolute;
-	top: 35%;
-	left: 45%;
+	top: 45%;
+	left: 50%;
 	font-family: cursive;
 	transform: translate(-30%,-50%);}
 
